@@ -2,6 +2,12 @@
 My implementation of the Daily-Git-Commit in bash, using anacron or crontab: https://github.com/JareBear12418/Daily-Git-Commit <br>
 All credito to him.
 
+<div align="center">
+
+![rudimentary-bot](https://user-images.githubusercontent.com/14861253/199794306-4f53a822-8f10-4aeb-b993-a76c2b9fc77f.gif)
+
+</div>
+    
 - Download the code or fork and clone.
 - Change the bot paths to your folder paths in the bot.sh file
     - bot.sh -> line 5 and 6, with the path of your cloned folder
@@ -55,3 +61,10 @@ More information about anacrontab can be found at: https://www.geeksforgeeks.org
 0 21 * * * /bin/bash /home/your-user/Desktop/projects/daily-commit-bot/bot.sh
 ```
 
+## The dream
+
+<div align="center">
+    
+<img src="https://pbs.twimg.com/media/FTJYOb1aQAA459O.jpg" data-canonical-src="https://pbs.twimg.com/media/FTJYOb1aQAA459O.jpg" width="400" height="400" />
+
+</div>
