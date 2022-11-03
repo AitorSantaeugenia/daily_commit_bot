@@ -51,7 +51,7 @@ More information about anacrontab can be found at: https://www.geeksforgeeks.org
 # Using crontab -e (easier)
 - Using <code>crontab -e </code> and adding these lines (for a push at 16:00 & 21:00)
 ```
-0 16 * * * /bin/bash /home/aitor/Desktop/projects/commit-bot-main/bot.sh
-0 21 * * * /bin/bash /home/aitor/Desktop/projects/commit-bot-main/bot.sh
+0 16 * * * /bin/bash /home/your-user/Desktop/projects/daily-commit-bot/bot.sh
+0 21 * * * /bin/bash /home/your-user/Desktop/projects/daily-commit-bot/bot.sh
 ```
 
