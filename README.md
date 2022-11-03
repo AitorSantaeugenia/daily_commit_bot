@@ -1,6 +1,6 @@
 # GitHub Commit Bot using Anacron and Cron - Ubuntu only
 My implementation of the Daily-Git-Commit in bash, using anacron or crontab: https://github.com/JareBear12418/Daily-Git-Commit <br>
-All credito to him.
+All credit to him.
 
 <div align="center">
 
