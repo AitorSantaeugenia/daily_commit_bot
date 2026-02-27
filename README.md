@@ -4,7 +4,7 @@ A bash script implementation for automated daily Git commits, inspired by [Daily
 
 <div align="center">
 
-![rudimentary-bot](https://i.imgur.com/IuU2ZeE.png)
+![rudimentary-bot](https://i.imgur.com/ROZBi3c.png)
 
 </div>
 
